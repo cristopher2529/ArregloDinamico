@@ -1,5 +1,8 @@
 #include <cstdio>
 #include <iostream>
+
+
+//Probando el control de versiones
 struct ArrayDin{
        int *num;   //Numero a introducir
        int cap;    //Capacidad del Array
