@@ -3,6 +3,9 @@
 
 
 //Probando el control de versiones
+
+
+//disculpen si este codigo no le sirve de nada, pero solo estoy conociendo la herramienta
 struct ArrayDin{
        int *num;   //Numero a introducir
        int cap;    //Capacidad del Array
